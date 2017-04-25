@@ -1,0 +1,2 @@
+# gauss
+Algoritmo Gauss
